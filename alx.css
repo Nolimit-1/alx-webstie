@@ -1,0 +1,59 @@
+body{
+  background-image: url(../images/home-hero-bg.jpg);
+}
+
+.btn-adjust{
+  background:#6ff9e0;
+  padding:10px;
+  padding-left:20px;
+  padding-right:20px;
+  border:none;
+  margin-top:20px;
+  border-radius:3px;
+  color:#181A53;
+  font-weight:50px;
+}
+
+.image-adjust{
+  margin-left:100px;
+  padding-left:50px;
+  padding-top:20px;
+}
+
+.navbar-icon-white{
+  color:white;
+  border-color:white;
+}
+
+.dropdown-menu-1{
+  size:15px;
+}
+
+.text-adjust{
+  font-size:50px;
+}
+
+@media only screen and (max-width: 576px){
+   .into {
+    padding-top: 40px;
+    padding-left:40px;
+    flex-basis: 100%!important;
+}
+}
+
+
+
+@media only screen and (max-width: 576px) {
+  .text-adjust{
+    display:inline-block;
+    /* justify-content:center;
+    align-items: center;  */
+    text-align:justify;
+  }
+ 
+}
+
+@media (max-width: 576px) { 
+  
+}
+
